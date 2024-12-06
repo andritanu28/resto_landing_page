@@ -1023,11 +1023,11 @@ video {
 
 .bg-resto-bright-yellow {
   --tw-bg-opacity: 1;
-  background-color: rgb(212 194 105 / var(--tw-bg-opacity, 1));
+  background-color: rgb(98 88 52 / var(--tw-bg-opacity, 1));
 }
 
 .bg-resto-bright-yellow\/15 {
-  background-color: rgb(253 200 134 / 0.15);
+  background-color: rgb(98 88 52 / 0.15);
 }
 
 .bg-white {
@@ -1213,7 +1213,7 @@ video {
 
 .text-resto-bright-yellow {
   --tw-text-opacity: 1;
-  color: rgb(218 116 34 / var(--tw-text-opacity, 1));
+  color: rgb(98 88 52 / var(--tw-text-opacity, 1));
 }
 
 .backdrop-blur-lg {
@@ -1299,7 +1299,7 @@ body {
 .before\:bg-resto-bright-yellow::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(212 194 105 / var(--tw-bg-opacity, 1));
+  background-color: rgb(98 88 52 / var(--tw-bg-opacity, 1));
 }
 
 .before\:transition-all::before {
