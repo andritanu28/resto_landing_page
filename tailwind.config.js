@@ -5,7 +5,7 @@ module.exports = {
         extend: {
             colors: {
                 "resto-black": "#232631",
-                "resto-bright-yellow": "#FDC886",
+                "resto-bright-yellow": "#625834",
             },
         },
     },
